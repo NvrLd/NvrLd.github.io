@@ -3,6 +3,8 @@ layout: post
 title:  "无处不在：一场自杀旅程"
 date:   2019-07-04
 tag: 翻译
+categories: 翻译
+
 ---
 
 #**无处不在：一场自杀旅程**
