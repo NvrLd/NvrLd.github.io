@@ -24,7 +24,7 @@ twitter_username:
 github_username: NvrLd
 
 # Build settings
-markdown: kramdown
+markdown: markdown Pad 2
 theme: minima
 plugins:
   - jekyll-feed
