@@ -38,7 +38,7 @@ plugins:
 footer: since 2019
 
 #paginate
-paginate: 3
+paginate: 1
 paginatepath: ['page:num']
 
 # Exclude from processing.
