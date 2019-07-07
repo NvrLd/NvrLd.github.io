@@ -29,10 +29,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-livere: 
-on: true 
-livere_uid: MTAyMC80NTE1OS8yMTY3Ng==
 
+# Comment settings
+comment: livere
+ livere: shrz
+ 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
