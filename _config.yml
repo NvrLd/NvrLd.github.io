@@ -24,14 +24,15 @@ twitter_username:
 github_username: NvrLd
 weibo_username: 喝碗瘦肉粥
 
+# Comment settings
+livere: true
+livere_uid: "MTAyMC80NTE1OS8yMTY3Ng=="
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-# Comment settings
-comment: livere
  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
