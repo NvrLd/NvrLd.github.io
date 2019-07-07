@@ -1,9 +1,9 @@
 ---
-Layout: post
-Title: 【Translation】无处不在：一场自杀旅程
-Date: 2019-07-07-14:58 +0800
-Tags: Translation 翻译
-Categories: Translation
+layout: post
+title: 【Translation】无处不在：一场自杀旅程
+date: 2019-07-07-14:58 +0800
+tags: 翻译 Translation
+categories: Translation
 ---
 
 
