@@ -29,6 +29,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+livere: 
+on: true 
+livere_uid: MTAyMC80NTE1OS8yMTY3Ng==
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,6 +44,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-# Support for LiveRe comments system.
-# You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: "MTAyMC80NTE1OS8yMTY3Ng=="
