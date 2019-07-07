@@ -25,7 +25,7 @@ github_username: NvrLd
 weibo_username: 喝碗瘦肉粥
 
 # Comment settings
-livere: true
+comment: livere
 livere_uid: "MTAyMC80NTE1OS8yMTY3Ng=="
 
 # Build settings
@@ -34,6 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
  
+#foot
+footer: since 2019
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
