@@ -2,7 +2,7 @@
 Layout: post
 Title: 【Translation】无处不在：一场自杀旅程
 Date: 2019-07-07-14:58 +0800
-Tag: Translation 翻译
+Tags: Translation 翻译
 Categories: Translation
 ---
 
