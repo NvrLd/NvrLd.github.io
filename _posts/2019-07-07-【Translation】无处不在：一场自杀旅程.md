@@ -73,3 +73,10 @@ Categories: Translation
 但之后我站起身，惊慌失措，来回跺步，颤抖着，恐惧着，我一秒也没睡着，担心着我的心脏，我不想搞得一团乱，于是把防水布铺开，坐下来，旁边放着药，本子，笔，还有一把刀，刀是塞巴迪牌的，在我小时候这把刀就一直放在厨房里。刀刃已经生锈了。我连一封信都没写完。那天傍晚，大约五点或者五点三十分左右，我赶在雷根下班回来之前——雷根是一名诗人，但那时她在一家对冲基金公司当主管——把防水布收好，将刀放回厨房的抽屉里，清理了烟灰缸，把药片放回原处，然后把那些自杀信息埋进了垃圾堆里。
 
 在那之后的四月某一天，从公寓逃出来后，我爬上了楼，在逃生梯不停地纠结于抓牢吊紧还是松手放弃，几番挣扎之后，我沿着梯子爬到屋顶，蜷缩在楼梯防火门旁的楼梯井隔板处。呼吸急促，浑身疼痛。从布鲁克林区的重重屋顶望出去，可以看到曼哈顿。摩天大楼灯火通明。痛感如同从我的肌肤与筋骨发散出来。可当我触碰自己时，又什么都感觉不到。像是遍体鳞伤，却又完好无损。我的胸腔急剧收缩，如同被某个重物压迫着，但这压力从何而来？没有物体，感觉不到压力源自何处，因何而起，无可触及。我想说：这痛感源于生命不可承受之重，可我从未承受过这样的重量。你呢？你曾感受过这种重压吗？这种仿佛从体内开始崩塌的感受，这种破碎与淬炼的感受。雷根在哪儿？我的朋友们在哪儿？我想要一颗子弹。从圣诞那天我就这样想了，想靠它来消除我太阳穴深处的难耐。我还记得，我躺在床上，想象着子弹从太阳穴穿入的感觉。耶稣在等我吗？还是这本就是去往光明以及崭新来生的旅程？就如我母亲临死前幻想的那样？死亡是一种觉知吗？又或什么也不是？当我醒来时，会重生吗？作为婴儿诞生，再次开始新的争斗？这些机会都是什么？我坠楼后，会残废吗？还是继续活着？如果我死了，雷根会活着吗？
+
+
+
+The Source Text: [Everywhere and Nowhere: A Journey through Suicide](https://www.newyorker.com/magazine/2019/02/18/everywhere-and-nowhere-a-journey-through-suicide) 
+
+**STATEMENT: All the articles that have marked the "translation" in the title are only for learning and practicing, and cannot be used for any commercial activities. All copyrights of the source text are reserved by the original author. Please contact me, if there is any problem. Thank you.**
+
