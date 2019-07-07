@@ -6,14 +6,12 @@ Tag: Translation 翻译
 Categories: Translation
 ---
 
-[TOC]
-
-***<u>The Text Source</u>***
 
 
 
-**无处不在：一场自杀旅程**
 
+* 目录
+{:toc}**无处不在：一场自杀旅程**
  
 
 *我那时不想死，是觉得我不能，不应该，不可以死，而我也有我的痛苦与理由。*
