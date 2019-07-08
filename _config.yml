@@ -39,8 +39,7 @@ plugins:
 footer: since 2019
 
 #paginate
-paginate: 1
-paginatepath: ['page:num']
+paginate: 7
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
