@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title:  "Christmas Hat"
 date:   2015-12-23 12:45:00 +0800
-tags:  3Bo
-categories: 
+tag: 3Bo
 ---
 
 # 圣诞帽
