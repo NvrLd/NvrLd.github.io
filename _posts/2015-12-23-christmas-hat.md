@@ -1,8 +1,9 @@
-layout: post
-title:  "Christmas Hat"
-date:   2015-12-23 12:46:01 +0800
-tags: 3Bo 
-categories:
+
+`layout: post`
+`title:  "Christmas Hat"`
+`date:   2015-12-23 12:46:01 +0800`
+`tags: 3Bo` 
+`categories:`
 
 # 圣诞帽
 
